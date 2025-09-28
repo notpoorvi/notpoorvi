@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Poorvi
 
-I'm a 3rd-year Computing Science student at Simon Frase University in BC Canada, passionate about programming and software development. I love exploring the intersection of math, machine learning, and real-world applications.
+I'm a 4th-year Computing Science student at Simon Frase University in BC Canada, passionate about programming and software development. I love exploring the intersection of math, machine learning, and real-world applications.
 ## Some facts about me: 
 - 👀 I'm keen on learning new skills and technologies, especially in areas like mathematics, data science, and machine learning.
 - 🌱 I like to build intuitive frontend designs, develop Python-based solutions, and dive into hands-on learning of exciting tools and frameworks.
